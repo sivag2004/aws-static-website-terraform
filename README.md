@@ -70,6 +70,3 @@ terraform apply
 ##  Author
 
 Sivaganesh T
-
-
-Your Name
